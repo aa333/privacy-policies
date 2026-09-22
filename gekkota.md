@@ -22,7 +22,7 @@ If you contact the Service Provider directly or voluntarily provide information 
 
 **Children**
 
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market to them. Since the Application does not collect personal information through normal use, children's data is not at risk from use of the Application alone. If you voluntarily provide personal information through other means and are under 16 years of age, your parent or guardian must provide consent on your behalf where permitted by law.
+The Application is not intended for children under 14 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market to them. Since the Application does not collect personal information through normal use, children's data is not at risk from use of the Application alone. If you voluntarily provide personal information through other means and are under 14 years of age, your parent or guardian must provide consent on your behalf where permitted by law.
 
 **Security**
 
