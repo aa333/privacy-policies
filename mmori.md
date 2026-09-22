@@ -18,7 +18,7 @@ Since the Application does not collect any information, no data is shared with t
 
 Since the Application does not collect personal information through normal use, uninstalling it simply removes the Application from your device.
 
-If you contact the Service Provider directly or voluntarily provide information by other means, you may request deletion of that information by contacting mmori+a333.games@gmail.com.
+If you contact the Service Provider directly or voluntarily provide information by other means, you may request deletion of that information by contacting a333.games+mmori@gmail.com.
 
 **Children**
 
@@ -36,7 +36,7 @@ Since the Application does not collect personal data through normal use, the ris
 
 The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
 
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at mmori+a333.games@gmail.com.
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at a333.games+mmori@gmail.com.
 
 This privacy policy is effective as of 2026-09-11
 
@@ -46,6 +46,6 @@ If you voluntarily provide information to the Service Provider and processing is
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at mmori+a333.games@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at a333.games+mmori@gmail.com.
 
 * * *
