@@ -1,5 +1,13 @@
 **Privacy Policy**
 
+== Disclaimer for quick overview only, full terms take priority
+- App does not collect any personal info. 
+- App may collect anonymized usage stats, like errors and crash reports. 
+- App may use camera only to take a photo for a pet's page. We are not responsible for any photos you do.
+- App is completely local and is not impacted by a lack of connectivity apart from losing ability to send usage stats. 
+- App may contain premium features which may require a purchase through the standard app store payment options. App does not access your payment info in any way.
+==
+
 This privacy policy applies to the Gekkota app for mobile devices, together with any related services operated by ANATOLII SAZANOV, IE (collectively, the "Application"). ANATOLII SAZANOV, IE is hereby referred to as the "Service Provider".
 
 **What information does the Application obtain and how is it used?**
